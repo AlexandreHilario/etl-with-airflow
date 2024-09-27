@@ -1,7 +1,7 @@
 
 ---
 
-### **Bem-vindo ao repositório de Melhores Práticas de ETL com Airflow.**
+**Bem-vindo ao repositório de Melhores Práticas de ETL com Airflow.**
 
 Este é o código-fonte de toda a documentação, que está hospedada em:
 
@@ -9,7 +9,7 @@ Este é o código-fonte de toda a documentação, que está hospedada em:
 
 ---
 
-### **Aviso Legal**
+**Aviso Legal**
 
 Este não é o site de documentação oficial do Apache Airflow. Este site não é afiliado, monitorado ou controlado pelo esforço de desenvolvimento oficial do Apache Airflow. Se você está procurando o site oficial de documentação, siga este link:
 
