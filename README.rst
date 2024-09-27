@@ -1,19 +1,20 @@
-*** Welcome to the ETL Best practices with airflow repository.
 
-This is the source code for all the documentation, which is hosted at:
+---
 
-https://gtoonstra.github.io/etl-with-airflow/
+### **Bem-vindo ao repositório de Melhores Práticas de ETL com Airflow.**
 
-** Disclaimer
+Este é o código-fonte de toda a documentação, que está hospedada em:
 
-This is not the official documentation site for
-Apache airflow. This site is not affiliated, monitored or controlled by
-the official Apache Airflow development effort. If you are looking for
-the official documentation site, please follow this link:
-  
-https://airflow.incubator.apache.org/
-    
-What you will find here are interesting examples, usage patterns and
-ETL principles that I thought are going to help people use airflow to
-much better effect.
+[https://gtoonstra.github.io/etl-with-airflow/](https://gtoonstra.github.io/etl-with-airflow/)
 
+---
+
+### **Aviso Legal**
+
+Este não é o site de documentação oficial do Apache Airflow. Este site não é afiliado, monitorado ou controlado pelo esforço de desenvolvimento oficial do Apache Airflow. Se você está procurando o site oficial de documentação, siga este link:
+
+[https://airflow.incubator.apache.org/](https://airflow.incubator.apache.org/)
+
+O que você encontrará aqui são exemplos interessantes, padrões de uso e princípios de ETL que eu acredito que vão ajudar as pessoas a utilizarem o Airflow de forma muito mais eficaz.
+
+---
